@@ -1,0 +1,44 @@
+body {
+  margin: 40px;
+  background-color: #003B4C;
+  color: #C8C8C8;
+  font-family: Georgia, serif;
+}
+
+h1, h2 {
+  text-align: center;
+  color: #FF6C0C;
+}
+
+img {
+  display: block;
+  margin: 10px auto;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption {
+  text-align: center;
+}
+
+section {
+  text-indent: 40px;
+  text-align: justify;
+}
+
+h3 {
+  text-indent: 0;
+  text-align: center;
+  color: #F9BE00;
+}
+
+a {
+  color: #00A1DF;
+}
+
+a:hover {
+  color: #1E988A;
+}
