@@ -29,6 +29,18 @@ section {
   text-align: justify;
 }
 
+blockquote {
+  background-color: #C8C8C8;
+  color: #003B4C;
+  padding: 20px;
+  text-indent: 0;
+}
+
+cite {
+  display: block;
+  text-align: right;
+}
+
 h3 {
   text-indent: 0;
   text-align: center;
