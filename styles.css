@@ -1,5 +1,5 @@
 body {
-  margin: 40px;
+  margin: 20px;
   background-color: #003B4C;
   color: #C8C8C8;
   font-family: Georgia, serif;
@@ -25,7 +25,6 @@ img {
 }
 
 section {
-  text-indent: 40px;
   text-align: justify;
 }
 
@@ -33,7 +32,6 @@ blockquote {
   background-color: #C8C8C8;
   color: #003B4C;
   padding: 20px;
-  text-indent: 0;
 }
 
 cite {
@@ -42,9 +40,8 @@ cite {
 }
 
 h3 {
-  text-indent: 0;
   text-align: center;
-  color: #F9BE00;
+  color: #F1D384;
 }
 
 a {
