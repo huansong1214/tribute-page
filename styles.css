@@ -32,6 +32,7 @@ blockquote {
   background-color: #C8C8C8;
   color: #003B4C;
   padding: 20px;
+  margin: 0;
 }
 
 cite {
